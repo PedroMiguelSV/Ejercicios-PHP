@@ -1,0 +1,56 @@
+[
+    {
+        "DNI": "12344345",
+        "APENOM": "Alcalde García, Elena",
+        "DIREC": "C/Las Matas, 24",
+        "POBLA": "Madrid",
+        "TELEF": "917766545",
+        "FNAC": null,
+        "curso": "0"
+    },
+    {
+        "DNI": "12345678K",
+        "APENOM": "José Antonio",
+        "DIREC": "C/Carmen 3",
+        "POBLA": "Lugo",
+        "TELEF": "654321543",
+        "FNAC": "2020-11-29",
+        "curso": "0"
+    },
+    {
+        "DNI": "12345679K",
+        "APENOM": "José",
+        "DIREC": "C/Carmen 7",
+        "POBLA": "Murcia",
+        "TELEF": "654521543",
+        "FNAC": null,
+        "curso": "0"
+    },
+    {
+        "DNI": "4448242",
+        "APENOM": "Cerrato Vela, Luis",
+        "DIREC": "C/Mina 28 - 3A",
+        "POBLA": "Madrid",
+        "TELEF": "916566545",
+        "FNAC": "2003-12-01",
+        "curso": "0"
+    },
+    {
+        "DNI": "56882942",
+        "APENOM": "Díaz Fernández, María",
+        "DIREC": "C/Luis Vives 25",
+        "POBLA": "Móstoles",
+        "TELEF": "915577545",
+        "FNAC": null,
+        "curso": "0"
+    },
+    {
+        "DNI": "82344345",
+        "APENOM": "Burguete Echalar, Antonio",
+        "DIREC": "C/Arenal, 124",
+        "POBLA": "Madrid",
+        "TELEF": "917766535",
+        "FNAC": null,
+        "curso": null
+    }
+]
